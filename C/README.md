@@ -167,7 +167,7 @@ B11111110(c不认识这个表示)
 ``` c
 int i;
 float f;
-doubel d;
+double d;
 char ch;
 
 ch + i -> i
